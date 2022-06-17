@@ -5,7 +5,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -87,6 +87,7 @@ The README file is longer than the actual code, but it works just fine :) Enjoy!
     python tinder.py
    ```
 5. Enjoy your matches
+**6. Long Press 'S' key on your keyboard to stop the script!**
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
